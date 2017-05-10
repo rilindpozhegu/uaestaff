@@ -1,0 +1,21 @@
+.button_colored {
+	border: transparent solid 2px;
+	color: white;
+	background-color: #F7941D;
+	height: 40px;
+	border-radius: 6px;
+	width: 160px;
+	font-family: 'Montserrat-Bold';
+	margin: 10px 5px;
+}
+
+.button_transparent {
+	border: white solid 2px;
+	color: white;
+	background-color: transparent;
+	height: 40px;
+	border-radius: 6px;
+	width: 160px;
+	font-family: 'Montserrat-Bold';
+	margin: 10px 5px;
+}
