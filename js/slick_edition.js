@@ -40,10 +40,10 @@ $('.responsive_models_home').slick({
 });
 
 
-$('.responsive_portfolio').slick({
+$('.testimonial_slick').slick({
   infinite: true,
-  slidesToShow: 4,
-  slidesToScroll: 4,
+  slidesToShow: 3,
+  slidesToScroll: 3,
   autoplay: true,
   autoplaySpeed: 4000,
   dots: true,

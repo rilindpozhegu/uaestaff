@@ -10,6 +10,7 @@ module.exports = function(grunt) {
 					'js/jquery.js',
 					'js/bootstrap.min.js', // Boostrap Script.min General,
 					'js/scrolling-nav.js', // Scrolling Nav Default Script,
+					'js/bootstrap-datetimepicker.min.js',
 
 					// Facts Section Number Counter Scripts/All
 					'js/waypoints.min.js',
@@ -33,6 +34,7 @@ module.exports = function(grunt) {
 					'js/wow.min.js',
 					'js/animate.js',
 					// --------------------------------// 
+					'js/active_property.js',
 
 
 					'js/skills_slide_horizontal.js',

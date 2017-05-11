@@ -37,7 +37,7 @@
 .input_style:focus ~ .label_string, .input_style:valid ~ .label_string    {
   top:-10px;
   font-size:12px;
-  color:#00A4EF;
+  color:#F7941D;
   transition:0.2s ease all; 
   -moz-transition:0.2s ease all; 
   -webkit-transition:0.2s ease all;
@@ -51,7 +51,7 @@
   width:0;
   bottom:0px; 
   position:absolute;
-  background:#00A4EF; 
+  background:#F7941D; 
   transition:0.2s ease all; 
   -moz-transition:0.2s ease all; 
   -webkit-transition:0.2s ease all;
@@ -89,6 +89,7 @@
 
 .textarea {
   padding-top: 20px;
+  margin-bottom: 30px;
 }
 .textarea .label_string {
   padding-top: 20px;
@@ -97,7 +98,7 @@
 .textarea .input_style:focus ~ .label_string, .textarea .input_style:valid ~ .label_string    {
   top:-50px;
   font-size:12px;
-  color:#00A4EF;
+  color:#F7941D;
   transition:0.2s ease all; 
   -moz-transition:0.2s ease all; 
   -webkit-transition:0.2s ease all;
@@ -116,4 +117,32 @@
 @keyframes .input_styleHighlighter {
   from { background:#5264AE; }
   to  { width:0; background:transparent; }
+}
+
+
+
+
+
+/*Contact Section on every page*/
+
+
+.contact_forms_section {
+  background-image: url('../img/background/backg_6-01.png');
+  background-size: cover;
+  background-position: center;
+  padding: 7% 10px;
+  background-position: 0px 0px;
+}
+
+.contact_forms_section h2 {
+  font-family: 'Montserrat-Light';
+  color: white;
+  text-align: center;
+  font-size: 35px;
+}
+
+.contact_forms_section p {
+  text-align: center;
+  color: white;
+  font-size: 18px;
 }

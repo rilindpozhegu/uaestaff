@@ -12,28 +12,31 @@
             </div>
 
             <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a class="page-scroll" href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">HOME</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#services">EVENT STAFF</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">WORK WITH US</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">NEWS</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">CONTACT</a>
-                    </li>
-                </ul>
+                <nav id="nav_titles">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="hidden">
+                            <a class="active_nav" href="#page-top"></a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="index.php">HOME</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="about.php">ABOUT US</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="apply.php">APPLY</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="datas.php">DATABASE</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="profile.php">PROFILE</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="contact.php">CONTACT</a>
+                        </li>
+                    </ul>
+                </nav>
             </div>
-            <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
     </nav>

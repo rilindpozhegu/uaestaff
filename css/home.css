@@ -81,7 +81,9 @@
 	font-family: 'Montserrat-Bold';
 	color: #5D6A84;
 }
-
+.model_section_s {
+	outline: none !important;
+}
 .model_slider_home h5 {
 	font-size: 22px;
 	color: #5D6A84;
@@ -164,34 +166,114 @@
 	margin: 20px 0px;
 }
 
+.choose_and_go_section .slick-prev:before, .slick-next:before {
+	font-family: 'slick';
+    font-size: 40px !important;
+    line-height: 1;
+    opacity: .55;
+    margin-left: -11px !important;
+    color: #ccc !important;
+    -webkit-font-smoothing: antialiased;
+	
+}
 
 
 
+/*Benefits Section Homepage*/
 
-
-
-
-
-/*Contact Section on every page*/
-
-
-.contact_forms_section {
-	background-image: url('../img/background/backg_6-01.png');
-	background-size: cover;
+.benefits_section_homepage {
+	padding: 6% 10px 4%;
+	background-image: url('../img/background/backg_3-01.png');
 	background-position: center;
-	padding: 7% 10px;
-	background-position: 0px 0px;
+	background-size: cover;
+	color: white;	
 }
 
-.contact_forms_section h2 {
+.benefits_section_homepage h1 {
 	font-family: 'Montserrat-Light';
-	color: white;
-	text-align: center;
-	font-size: 35px;
+	font-size: 38px;
 }
 
-.contact_forms_section p {
+.benefits_section_homepage p {
+	font-size: 16px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+.benefits_section_homepage h4 {
+	font-family: 'Montserrat-Light';
+	font-size: 19px;
+	padding-top: 15px;
+}
+
+.benefits_section_homepage i {
+	color: #F7941D;
+}
+
+/*Add Staff Section*/
+
+.add_staff_home_section {
+	background-image: url(../img/background/backg_4-01.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 	text-align: center;
+	padding: 6% 10px;
+	color: #5D6A84;
+}
+
+.add_staff_home_section .col-md-6:hover h2 {
+	color: #F7941D;
+	transition: ease all 0.2s;
+}
+.add_staff_home_section img {
+	width: 40%;
+}
+
+.add_staff_home_section h2 {
+	font-family: 'Montserrat-Bold';
+	transition: ease all 0.2s;
+}
+.add_staff_home_section p {
+	padding: 10px 90px; 
+	font-size: 17px;
+	line-height: 28px;
+}
+
+
+/*Testimonial section*/
+
+.testimonial_section_home {
+	background-image: url(../img/background/backg_5-01.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	padding: 6% 10px;
 	color: white;
-	font-size: 18px;
+}
+
+.testimonial_section_home img {
+	width: 35%;
+	margin: 0 auto;
+}
+
+.testimonial_section_home h1 {
+	font-family: 'Montserrat-Bold';
+	margin-bottom: 30px;
+}
+.testimonial_section_home h4 {
+	font-family: 'Montserrat-Bold';
+	margin-bottom: 0px;
+}
+.testimonial_section_home h5 {
+	margin-top: 0px;
+}
+.small_testimonial_pan {	
+	margin-top: 30px;
+	outline: none !important;
+}
+.testimonial_slick p {
+	padding: 10px 40px;
+	font-size: 16px;
 }

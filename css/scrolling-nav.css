@@ -1,3 +1,10 @@
+
+.active_nav {
+    color: #F7941D !important;
+    font-family: 'Montserrat-Bold' !important;
+}
+
+
 @media(min-width:767px) {
     .navbar {
         padding: 30px 0;
@@ -7,7 +14,8 @@
     }
 
     .top-nav-collapse {
-        padding: 0;
+        padding: 10px 0px 0px;
+        background: rgba(61, 74, 99, 0.88) !important;
     }
 }
 
@@ -16,7 +24,7 @@
     font-family: 'Montserrat-Bold';
 }
 .navbar-default img {
-    width: 200px;
+    width: 220px;
 }
 .navbar_transparent {
     background-color: transparent;

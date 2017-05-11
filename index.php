@@ -37,130 +37,59 @@
 </section>
 
 <!-- Our Event Staffing Solutions -->
-
     <?php include 'event_solutions_section.php';?>
-
-
 <!-- Choose N’Go -->
+    <?php include 'choose_n_go_section.php';?>
 
-<section class="choose_and_go_section">
+
+<!-- Beneftis Section Homepage -->
+
+<section class="benefits_section_homepage">
+    <section class="container">
+        <div class="row">
+            <h1>Benefits</h1>
+            <hr>
+            <div class="col-md-6">
+                <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
+                <p>Perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore.erspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quaeb illo inventore</p>
+                <button class="button_colored">Contact</button>
+            </div>
+            <div class="col-md-5 col-md-offset-1">
+                <h4><i class="fa fa-check" aria-hidden="true"></i> Benefits Will Be Here</h4>
+                <h4><i class="fa fa-check" aria-hidden="true"></i> Benefits Will Be Here</h4>
+                <h4><i class="fa fa-check" aria-hidden="true"></i> Benefits Will Be Here</h4>
+                <h4><i class="fa fa-check" aria-hidden="true"></i> Benefits Will Be Here</h4>
+            </div>
+        </div>
+    </section>
+</section>
+
+
+<!-- Add staff -->
+
+<section class="add_staff_home_section">
     <div class="container">
         <div class="row">
-            <h1 class="third_home_title">Choose N’Go</h1>
-            <hr>
-            <div class="model_slider_home responsive_models_home">
-
-                <div class="model_section_s">
-                    <div class="col-md-2 small_images_choose_ho">
-                        <img src="img/model/model_h_sm-01.png" class="img-responsive"> <br>
-                        <img src="img/model/model_h_sm-01.png" class="img-responsive"> <br>
-                        <img src="img/model/model_h_sm-01.png" class="img-responsive">
-                    </div>
-                    <div class="col-md-4 large_images_choose_ho">
-                        <img src="img/model/model_h_lg-01.png" class="img-responsive">
-                    </div>
-                    <div class="col-md-6">
-                        <div class="col-md-9">
-                            <h1>YASMIN BERRY</h1>
-                            <h5>HOSTESS</h5>
-                        </div>
-                        <div class="col-md-3 button_choose_home">
-                            <button>Hire</button>
-                        </div>   
-                        <div class="clearfix"></div> 
-                        <div class="col-md-12 model_section_paragraph">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                        </div>
-                        <div class="col-md-12">
-                        <h4>Skills</h4>
-                            <div id="habilidades" class="habilidades">  
-                            <h3>Experience</h3>
-                                <div class="codeconSkillbar">
-                                    <div id="" class="skillBar" skill-percentage="70%" skill-color="#F7941D"> 
-                                        <span class="PercentText ">70%</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div id="habilidades" class="habilidades">  
-                            <h3>Charisma </h3>
-                                <div class="codeconSkillbar">
-                                    <div id="" class="skillBar" skill-percentage="90%" skill-color="#F7941D"> 
-                                        <span class="PercentText ">90%</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div id="habilidades" class="habilidades">  
-                            <h3>Intelligence </h3>
-                                <div class="codeconSkillbar">
-                                    <div id="" class="skillBar" skill-percentage="98%" skill-color="#F7941D"> 
-                                        <span class="PercentText ">98%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="model_section_s">
-                    <div class="col-md-2 small_images_choose_ho">
-                        <img src="img/model/model_h_sm-01.png" class="img-responsive"> <br>
-                        <img src="img/model/model_h_sm-01.png" class="img-responsive"> <br>
-                        <img src="img/model/model_h_sm-01.png" class="img-responsive">
-                    </div>
-                    <div class="col-md-4 large_images_choose_ho">
-                        <img src="img/model/model_h_lg-01.png" class="img-responsive">
-                    </div>
-                    <div class="col-md-6">
-                        <div class="col-md-9">
-                            <h1>YASMIN BERRY</h1>
-                            <h5>HOSTESS</h5>
-                        </div>
-                        <div class="col-md-3 button_choose_home">
-                            <button>Hire</button>
-                        </div>   
-                        <div class="clearfix"></div> 
-                        <div class="col-md-12 model_section_paragraph">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                        </div>
-                        <div class="col-md-12">
-                        <h4>Skills</h4>
-                            <div id="habilidades" class="habilidades">  
-                            <h3>Experience</h3>
-                                <div class="codeconSkillbar">
-                                    <div id="" class="skillBar" skill-percentage="70%" skill-color="#F7941D"> 
-                                        <span class="PercentText ">70%</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div id="habilidades" class="habilidades">  
-                            <h3>Charisma </h3>
-                                <div class="codeconSkillbar">
-                                    <div id="" class="skillBar" skill-percentage="90%" skill-color="#F7941D"> 
-                                        <span class="PercentText ">90%</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div id="habilidades" class="habilidades">  
-                            <h3>Intelligence </h3>
-                                <div class="codeconSkillbar">
-                                    <div id="" class="skillBar" skill-percentage="98%" skill-color="#F7941D"> 
-                                        <span class="PercentText ">98%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
+            <div class="col-md-6">
+                <img src="img/icons/add_staff1-01.svg">
+                <h2>I Need Staff</h2>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.</p>
+                <button class="button_colored_dark">Get a Quote</button>
+            </div>
+            <div class="col-md-6">
+                <img src="img/icons/add_staff2-01.svg">
+                <h2>I Want To Work</h2>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.</p>
+                <button class="button_colored">I want to work</button>
             </div>
         </div>
     </div>
 </section>
 
 
+<!-- testimonial Section Homepage -->
+
+    <?php include 'testimonial_section_home_ab.php';?>
 <!-- Contact Form Section -->
     <?php include 'contact_section_input.php';?>
 
