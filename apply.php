@@ -20,7 +20,7 @@
 
 
 <!-- NavigationBar -->
-    <?php include 'navigation_bar.php';?>
+    <?php include 'navigation_bar_colored.php';?>
 
 <!-- Homepage First Section -->
 

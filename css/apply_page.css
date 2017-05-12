@@ -29,8 +29,18 @@
 	border-right: none;
 	border-left: none;
 	border-bottom: solid 2px #E6E6E6;
+	transition: ease all 0.2s;
 }
 
+.apply_section_one_p input:active {
+	border-bottom: solid 2px #F7941D;
+	transition: ease all 0.2s;
+}
+
+.apply_section_one_p input:focus {
+	border-bottom: solid 2px #F7941D;
+	transition: ease all 0.2s;
+}
 .form_date input {
 	width: 100%; 
 	margin: 0px;

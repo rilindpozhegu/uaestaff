@@ -1,5 +1,5 @@
     <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top navigation_colored_edition" role="navigation">
         <div class="container">
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -8,7 +8,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">RILIND TEMPLATE</a>
+                <a href="#"><img src="img/logo/uae_white_logo-01.svg"></a>
             </div>
 
             <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -27,10 +27,7 @@
                             <a class="page-scroll" href="apply.php">APPLY</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="datas.php">DATABASE</a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="profile.php">PROFILE</a>
+                            <a class="page-scroll" href="profiles.php">PROFILES</a>
                         </li>
                         <li>
                             <a class="page-scroll" href="contact.php">CONTACT</a>

@@ -24,7 +24,19 @@
 
 <!-- Homepage First Section -->
 
-<section class="home_cover_section main_covers_text">
+<!-- Header Section On homepage -->
+<form id="video-landing" class="home_page_hero">
+<section class="video-holder">
+    <section id="video-landing" class="hm-black-strong">
+        <video autoplay="autoplay" loop="loop" id="bgvid" poster="img/background/backg_1-01.png" muted>
+            <source src="img/uaestaff1.mp4" type="video/mp4" mute="muted" controls/> 
+            <!-- <source src="http://mdbootstrap.com/images/video/Agua-natural.mp4" type="video/mp4" /> -->
+        </video>
+    </section>
+</section>
+</form>
+
+<div class="home_cover_section main_covers_text">
     <div class="container">
         <div class="row">
             <p>JOIN US FOR SOME EXCITING OPPORTUNITIES</p>
@@ -34,7 +46,7 @@
             <button class="button_transparent">Work with Us</button>
         </div> 
     </div>
-</section>
+</div>
 
 <!-- Our Event Staffing Solutions -->
     <?php include 'event_solutions_section.php';?>

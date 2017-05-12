@@ -15,7 +15,7 @@
 
     .top-nav-collapse {
         padding: 10px 0px 0px;
-        background: rgba(61, 74, 99, 0.88) !important;
+        background: #2A2E3A !important;
     }
 }
 
@@ -23,10 +23,19 @@
     color: #fff;
     font-family: 'Montserrat-Bold';
 }
+.navbar-default .navbar-nav>li>a:hover {
+    color: #F7941D !important;
+}
+
 .navbar-default img {
     width: 220px;
 }
 .navbar_transparent {
     background-color: transparent;
     border-color: transparent;
+}
+
+.navigation_colored_edition {
+    background: #2A2E3A;
+    border: none;
 }

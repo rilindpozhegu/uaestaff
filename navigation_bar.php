@@ -27,10 +27,7 @@
                             <a class="page-scroll" href="apply.php">APPLY</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="datas.php">DATABASE</a>
-                        </li>
-                        <li>
-                            <a class="page-scroll" href="profile.php">PROFILE</a>
+                            <a class="page-scroll" href="profiles.php">PROFILES</a>
                         </li>
                         <li>
                             <a class="page-scroll" href="contact.php">CONTACT</a>
