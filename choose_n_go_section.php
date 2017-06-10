@@ -1,22 +1,28 @@
 
 <section class="choose_and_go_section">
+
     <div class="container">
         <div class="row">
-            <h1 class="third_home_title">Choose N’Go</h1>
+            <h1 class="third_home_title wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">Choose N’Go</h1>
             <hr>
             <div class="model_slider_home responsive_models_home">
 
                 <div class="model_section_s">
-                    <div class="col-md-2 small_images_choose_ho">
+                        <div class="col-md-9 desktop-d-n">
+                            <h1>YASMIN BERRY</h1>
+                            <h5>HOSTESS</h5>
+                        </div>
+                    <div class="col-md-2 col-sm-4 col-xs-4 small_images_choose_ho">
                         <img src="img/model/model_h_sm-01.png" class="img-responsive"> <br>
                         <img src="img/model/model_h_sm-01.png" class="img-responsive"> <br>
                         <img src="img/model/model_h_sm-01.png" class="img-responsive">
                     </div>
-                    <div class="col-md-4 large_images_choose_ho">
+                    <div class="col-md-4 col-sm-8 col-xs-8 large_images_choose_ho">
                         <img src="img/model/model_md-01.png" class="img-responsive">
                     </div>
+
                     <div class="col-md-6">
-                        <div class="col-md-9">
+                        <div class="col-md-9 mobile-d-n">
                             <h1>YASMIN BERRY</h1>
                             <h5>HOSTESS</h5>
                         </div>
@@ -59,16 +65,21 @@
                     </div>
                 </div>
                 <div class="model_section_s">
-                    <div class="col-md-2 small_images_choose_ho">
+                        <div class="col-md-9 desktop-d-n">
+                            <h1>YASMIN BERRY</h1>
+                            <h5>HOSTESS</h5>
+                        </div>
+                    <div class="col-md-2 col-sm-4 col-xs-4 small_images_choose_ho">
                         <img src="img/model/model_h_sm-01.png" class="img-responsive"> <br>
                         <img src="img/model/model_h_sm-01.png" class="img-responsive"> <br>
                         <img src="img/model/model_h_sm-01.png" class="img-responsive">
                     </div>
-                    <div class="col-md-4 large_images_choose_ho">
-                        <img src="img/model/model_h_lg-01.png" class="img-responsive">
+                    <div class="col-md-4 col-sm-8 col-xs-8 large_images_choose_ho">
+                        <img src="img/model/model_md-01.png" class="img-responsive">
                     </div>
+
                     <div class="col-md-6">
-                        <div class="col-md-9">
+                        <div class="col-md-9 mobile-d-n">
                             <h1>YASMIN BERRY</h1>
                             <h5>HOSTESS</h5>
                         </div>

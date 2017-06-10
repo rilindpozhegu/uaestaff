@@ -5,6 +5,7 @@
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
+	height: 100vh;
 	/*text-align: center;*/
 }
 .gallery_user_section {

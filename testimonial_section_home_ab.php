@@ -2,7 +2,7 @@
 <section class="testimonial_section_home">
     <div class="container">
         <div class="row">
-        <h1>See what our happy clients say!</h1>
+        <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">See what our happy clients say!</h1>
             <div class="testimonial_slick">
                 <div class="small_testimonial_pan">
                     <img src="img/testimonial/testimonial_img-01.png">

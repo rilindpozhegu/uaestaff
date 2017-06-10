@@ -23,13 +23,13 @@
 
 /*Second Section Homepage*/
 .our_staffing_solutions {
-	padding: 6% 10px 4%;
+	padding: 7% 10px 6%;
 	text-align: center;
 	background-image: url('../img/background/backg_2-01.png');
-	background-position: center;
-	background-size: cover;
-	background-attachment: fixed;
+	/*background-position: center !important;*/
+	background-repeat: no-repeat;
 	color: white;
+	background-size: cover;
 }
 
 .our_staffing_solutions h2 {
@@ -165,7 +165,19 @@
 	border-radius: 6px;
 	font-family: 'Montserrat-Bold';
 	margin: 20px 0px;
+	transition: ease all 0.2s;
 }
+.button_choose_home button:hover {
+	border: #F7941D solid 2px;
+	transition: ease all 0.2s;
+	color: #F7941D;
+	background-color: #fff;
+	height: 40px;
+	border-radius: 6px;
+	font-family: 'Montserrat-Bold';
+	margin: 20px 0px;
+}
+
 
 .choose_and_go_section .slick-prev:before, .slick-next:before {
 	font-family: 'slick';
@@ -193,12 +205,20 @@
 .benefits_section_homepage h1 {
 	font-family: 'Montserrat-Light';
 	font-size: 38px;
+	padding-left: 15px;
 }
 
 .benefits_section_homepage p {
 	font-size: 16px;
 	padding-top: 10px;
 	padding-bottom: 5px;
+}
+.benefits_section_homepage hr {
+    border: none;
+    margin: 10px 15px;
+    height: 3px;
+    width: 5%;
+    background-color: #F7941D;
 }
 
 .benefits_section_homepage h4 {
@@ -282,10 +302,27 @@
 /*Contact Page*/
 
 .map_section_contact {
-	padding-top: 7.5%;
+	padding-top: 6.9%;
 	background-color: #676464;
 }
 #map {
 	height: 100vh;
 	width: 100%;
 }
+
+.information_contact_section {
+	background-color: #2A2E3A;
+	padding: 30px;
+	text-align: left;
+}
+
+.information_contact_section p {
+	color: #fff;
+	font-family: 'Montserrat-Bold';
+	font-size: 14px;
+	margin-bottom: 0px;
+}
+.information_contact_section i {
+	color: #F7941D;
+	font-size: 18px;
+} 

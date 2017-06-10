@@ -10,6 +10,8 @@
     <meta name="author" content="">
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
+    <!-- Tab Logo -->
+    <link rel="icon" href="img/favicon-01.png">
     <title>UAE STAFF</title>
 
     <!-- Bootstrap Core CSS -->
@@ -24,15 +26,15 @@
 
 <!-- Homepage First Section -->
 
-<section class="apply_cover_section main_covers_text">
+<section class="apply_cover_section main_covers_text" id="parallax_slide_bg">
     <div class="container">
         <div class="row">
             <!-- <p>JOIN US FOR SOME EXCITING OPPORTUNITIES</p> -->
-            <h1>TALENT SIGN-UP</h1>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting<br> industry. Lorem Ipsum has been the industry's standard dummy<br> text ever since the 1500s.</p><!-- 
+            <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">TALENT SIGN-UP</h1>
+            <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">Lorem Ipsum is simply dummy text of the printing and typesetting<br> industry. Lorem Ipsum has been the industry's standard dummy<br> text ever since the 1500s.</p><!--
             <button class="button_colored">Register with Us</button>
             <button class="button_transparent">Work with Us</button> -->
-        </div> 
+        </div>
     </div>
 </section>
 
@@ -41,17 +43,17 @@
 <section class="apply_section_one_p">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 upload_image_section">
+            <div class="col-md-4 upload_image_section wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <img src="img/upload_img-01.svg" class="img-responsive">
                 <h1>Upload Images</h1>
-                <button class="upload_image_sm_btn">Head Shot <i class="fa fa-cloud-upload" aria-hidden="true"></i></button>   
-                <button class="upload_image_sm_btn">Head Shot <i class="fa fa-cloud-upload" aria-hidden="true"></i></button>   
-                <button class="upload_image_sm_btn">Head Shot <i class="fa fa-cloud-upload" aria-hidden="true"></i></button>   
-                <button class="upload_image_sm_btn">Head Shot <i class="fa fa-cloud-upload" aria-hidden="true"></i></button>    
+                <button class="upload_image_sm_btn">Head Shot <i class="fa fa-cloud-upload" aria-hidden="true"></i></button>
+                <button class="upload_image_sm_btn">Shoulder Up <i class="fa fa-cloud-upload" aria-hidden="true"></i></button>
+                <button class="upload_image_sm_btn">Waist Up <i class="fa fa-cloud-upload" aria-hidden="true"></i></button>
+                <button class="upload_image_sm_btn">Full Length <i class="fa fa-cloud-upload" aria-hidden="true"></i></button>
                 <button class="submit_all_uploaded_images">Send Submission</button>
             </div>
 
-            <div class="col-md-8 no_padding">
+            <div class="col-md-8 no_padding wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <h1>Personal</h1>
             <div class="col-md-6">
                 <input type="" name="" placeholder="Full Name">
@@ -649,14 +651,14 @@
 
 
 
-<!-- Footer all Pages -->    
+<!-- Footer all Pages -->
     <?php include 'footer_all.php';?>
 
 <!-- jQuery -->
 
     <script type="text/javascript" src="build/scripts.js"></script>
     <script type="text/javascript">
-        
+
     $('.form_date').datetimepicker({
         language:  'en',
         weekStart: 1,

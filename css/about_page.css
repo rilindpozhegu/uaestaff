@@ -14,7 +14,7 @@
 }
 
 .section_two_about_p img {
-	width: 350px;
+	width: 280px;
 }
 
 .section_two_about_p p {
@@ -24,7 +24,7 @@
 
 .forth_section_about_p {
 	background-image: url('../img/background/backg_3-01.png');
-	padding: 4% 10px 4%; 
+	padding: 5% 10px 5%; 
 	background-position: center;
 	background-size: cover;
 	text-align: center;
@@ -54,8 +54,9 @@
 }
 
 .managment_section_about_p h2 {
-	font-family: 'Montserrat-Light';
+	font-family: 'Montserrat-Bold';
 	margin-bottom: 0px;
+	font-size: 24px;
 }
 
 .managment_section_about_p .col-md-8 {

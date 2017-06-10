@@ -10,6 +10,8 @@
     <meta name="author" content="">
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
+    <!-- Tab Logo -->
+    <link rel="icon" href="img/favicon-01.png">
     <title>UAE STAFF</title>
 
     <!-- Bootstrap Core CSS -->
@@ -115,11 +117,7 @@
 
 
 
-<!-- Contact Form Section -->
-    <?php include '../contact_section_input.php';?>
 
-<!-- Footer all Pages -->    
-    <?php include '../footer_all.php';?>
 
 <!-- jQuery -->
 
@@ -158,8 +156,8 @@ $('.slider-nav').slick({
       settings: {
         arrows: false,
         centerMode: true,
-        centerPadding: '40px',
-        slidesToShow: 1
+        centerPadding: '10px',
+        slidesToShow: 2
       }
     }
   ]

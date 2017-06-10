@@ -8,7 +8,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="#"><img src="img/logo/uae_white_logo-01.svg"></a>
+                <a href="#"><img src="img/logo/uae_white_logo-01.png" class="mobile-d-n"></a>
+                <a href="#"><img src="img/logo/uae_white_logo-01.png" class="desktop-d-n"></a>
             </div>
 
             <div class="collapse navbar-collapse navbar-ex1-collapse">

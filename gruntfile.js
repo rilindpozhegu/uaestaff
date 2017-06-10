@@ -38,7 +38,7 @@ module.exports = function(grunt) {
 
 
 					'js/skills_slide_horizontal.js',
-
+					'js/parallax-background.js',
 					],
 
 				dest: 'build/scripts.js'

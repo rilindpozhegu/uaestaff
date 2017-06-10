@@ -10,6 +10,8 @@
     <meta name="author" content="">
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
+    <!-- Tab Logo -->
+    <link rel="icon" href="img/favicon-01.png">
     <title>UAE STAFF</title>
 
     <!-- Bootstrap Core CSS -->
@@ -24,14 +26,14 @@
 
 <!-- Homepage First Section -->
 
-<section class="datas_cover_section main_covers_text">
+<section class="datas_cover_section main_covers_text" id="parallax_slide_bg">
     <div class="container">
         <div class="row">
             <!-- <p>JOIN US FOR SOME EXCITING OPPORTUNITIES</p> -->
-            <h1>TALENT DATABASE</h1>
+            <h1 class=" wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">TALENT DATABASE</h1>
             <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting<br> industry. Lorem Ipsum has been the industry's standard dummy<br> text ever since the 1500s.</p> -->
-            <button class="button_colored">Hosts</button>
-            <button class="button_transparent">Hostess</button>
+            <button class="button_colored  wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Hosts</button>
+            <button class="button_transparent wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".4s">Hostess</button>
         </div> 
     </div>
 </section>
@@ -61,7 +63,7 @@
                 </div>
             </div>
         <div class="result_section_datas">
-            <div class="col-md-3">
+            <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
                 <div class="data_panel_info">
                     <div class="backgorund_image_c">
                         <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
@@ -74,7 +76,7 @@
                     <p>ITALIAN</p>
                 </div>
             </div>
-             <div class="col-md-3">
+             <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="data_panel_info">
                     <div class="backgorund_image_c">
                         <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
@@ -87,7 +89,70 @@
                     <p>ITALIAN</p>
                 </div>
             </div>
-             <div class="col-md-3">
+            <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+                <div class="data_panel_info">
+                    <div class="backgorund_image_c">
+                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
+                    </div>
+                    <div class="middle">
+                        <h1>Anabelle Brown</h1>
+                        <a href="profiles/user1.php"><a href="profiles/user1.php"><button class="button_colored">View Profile</button></a></a>
+                    </div>
+                    <h3>Name Surname</h3>
+                    <p>ITALIAN</p>
+                </div>
+            </div>
+             <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
+                <div class="data_panel_info">
+                    <div class="backgorund_image_c">
+                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
+                    </div>
+                    <div class="middle">
+                        <h1>Anabelle Brown</h1>
+                        <a href="profiles/user1.php"><button class="button_colored">View Profile</button></a>
+                    </div>
+                    <h3>Name Surname</h3>
+                    <p>ITALIAN</p>
+                </div>
+            </div><div class="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+                <div class="data_panel_info">
+                    <div class="backgorund_image_c">
+                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
+                    </div>
+                    <div class="middle">
+                        <h1>Anabelle Brown</h1>
+                        <a href="profiles/user1.php"><a href="profiles/user1.php"><button class="button_colored">View Profile</button></a></a>
+                    </div>
+                    <h3>Name Surname</h3>
+                    <p>ITALIAN</p>
+                </div>
+            </div>
+             <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
+                <div class="data_panel_info">
+                    <div class="backgorund_image_c">
+                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
+                    </div>
+                    <div class="middle">
+                        <h1>Anabelle Brown</h1>
+                        <a href="profiles/user1.php"><button class="button_colored">View Profile</button></a>
+                    </div>
+                    <h3>Name Surname</h3>
+                    <p>ITALIAN</p>
+                </div>
+            </div><div class="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".2s">
+                <div class="data_panel_info">
+                    <div class="backgorund_image_c">
+                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
+                    </div>
+                    <div class="middle">
+                        <h1>Anabelle Brown</h1>
+                        <a href="profiles/user1.php"><a href="profiles/user1.php"><button class="button_colored">View Profile</button></a></a>
+                    </div>
+                    <h3>Name Surname</h3>
+                    <p>ITALIAN</p>
+                </div>
+            </div>
+             <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay=".3s">
                 <div class="data_panel_info">
                     <div class="backgorund_image_c">
                         <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
@@ -100,74 +165,7 @@
                     <p>ITALIAN</p>
                 </div>
             </div>
-             <div class="col-md-3">
-                <div class="data_panel_info">
-                    <div class="backgorund_image_c">
-                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
-                    </div>
-                    <div class="middle">
-                        <h1>Anabelle Brown</h1>
-                        <a href="profiles/user1.php"><button class="button_colored">View Profile</button></a>
-                    </div>
-                    <h3>Name Surname</h3>
-                    <p>ITALIAN</p>
-                </div>
-            </div>
-
-            <div class="clearfix"></div>
-
-             <div class="col-md-3">
-                <div class="data_panel_info">
-                    <div class="backgorund_image_c">
-                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
-                    </div>
-                    <div class="middle">
-                        <h1>Anabelle Brown</h1>
-                        <a href="profiles/user1.php"><button class="button_colored">View Profile</button></a>
-                    </div>
-                    <h3>Name Surname</h3>
-                    <p>ITALIAN</p>
-                </div>
-            </div>
-             <div class="col-md-3">
-                <div class="data_panel_info">
-                    <div class="backgorund_image_c">
-                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
-                    </div>
-                    <div class="middle">
-                        <h1>Anabelle Brown</h1>
-                        <a href="profiles/user1.php"><button class="button_colored">View Profile</button></a>
-                    </div>
-                    <h3>Name Surname</h3>
-                    <p>ITALIAN</p>
-                </div>
-            </div>
-             <div class="col-md-3">
-                <div class="data_panel_info">
-                    <div class="backgorund_image_c">
-                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
-                    </div>
-                    <div class="middle">
-                        <h1>Anabelle Brown</h1>
-                        <a href="profiles/user1.php"><button class="button_colored">View Profile</button></a>
-                    </div>
-                    <h3>Name Surname</h3>
-                    <p>ITALIAN</p>
-                </div>
-            </div>
-             <div class="col-md-3">
-                <div class="data_panel_info">
-                    <div class="backgorund_image_c">
-                        <img src="img/model/model_md-01.png" class="img-responsive image_data_info">
-                    </div>
-                    <div class="middle">
-                        <h1>Anabelle Brown</h1>
-                        <a href="profiles/user1.php"><button class="button_colored">View Profile</button></a>
-                    </div>
-                    <h3>Name Surname</h3>
-                    <p>ITALIAN</p>
-                </div>
-            </div>
+             
         </div>    
         </div>
     </div>

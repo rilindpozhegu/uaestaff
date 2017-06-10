@@ -13,4 +13,64 @@
     .mobile-d-n {
    		display: none !important;
   	}
+  	.home_cover_section {
+  		top: 20%;
+  	}
+  	.mobile_back_home_1 {
+  		background-image: url('../img/background/backg_1-01.png');
+  		height: 100vh;
+    	background-position: -237px 49px;
+  	}
+  	.main_covers_text p {
+	    font-size: 15px;
+	    padding: 0px 10px;
+	}
+	.main_covers_text h1 {
+	    font-size: 50px;
+	    font-family: 'Montserrat-Bold';
+	}
+	.solutions_two_sec_h svg {
+	    width: 46%;
+	    transition: ease all 0.2s;
+	}
+	.choose_and_go_section .slick-next, .choose_and_go_section .slick-arrow {
+		display: none !important;
+	}
+	.add_staff_home_section p {
+	    padding: 10px 20px;
+	    font-size: 17px;
+	    line-height: 28px;
+	}
+	.about_cover_section {
+		padding-top: 25%;
+	}
+	.apply_cover_section {
+		padding-top: 25%;
+	}
+	.datas_cover_section {
+		padding-top: 25%;
+	}
+	.search_section button {
+		margin-top: 20px;
+	}
+	.data_panel_info h1 {
+	    color: white;
+	    font-family: 'Montserrat-Bold';
+	    font-size: 15px;
+	    text-align: center;
+	}
+	.data_panel_info button {
+		width: 110px;
+		font-size: 12px;
+	}
+	.benefits_section_homepage hr {
+	    border: none;
+	    margin: 10px 15px;
+	    height: 3px;
+	    width: 40%;
+	    background-color: #F7941D;
+	}
+	.solial_media_footer {
+		text-align: center;
+	}
   }
